@@ -317,7 +317,7 @@ function App() {
                 <MenuItem onClick={sortByDate2}>Date (Old-New)</MenuItem>
                 <MenuItem onClick={sortBySuccess}>Success (Fail Last)</MenuItem>
                 <MenuItem onClick={sortBySuccess2}>
-                  Success (Fail First)
+                  Success (Fail First )
                 </MenuItem>
               </Menu>
             </Box>
